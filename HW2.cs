@@ -41,7 +41,6 @@ class Program
 
         try
         {
-            // Запускаємо дочірній процес
             childProcess.Start();
 
             Console.WriteLine("Оберіть дію:");
